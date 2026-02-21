@@ -105,4 +105,4 @@ Contributions are **highly welcome**! Please read [`CONTRIBUTING.md`](CONTRIBUTI
 ## ✨ Star History
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/sublime-rust-cpu&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/sublime-rust-cpu&type=date&legend=bottom-right)
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-go&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-go&type=date&legend=bottom-right)
